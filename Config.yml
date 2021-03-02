@@ -1,0 +1,10 @@
+# All Directories to be backuped
+
+Directories:
+  - /home/david
+  - /etc 
+
+# Directory where to backup files
+
+Backup-Directory:
+  - /media/david/3C06-93D7/Backup
