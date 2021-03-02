@@ -1,14 +1,14 @@
 # Backup
 I just made a little Backup script to save my relevant data.
 
-# Installation
+## Installation
 
 pip install -r requirements.txt 
 
-# Config 
+## Config 
 
 Edit Config.yml and add Directories that should be copied.
 
-# Usage 
+## Usage 
 
 python3 Backup.py 
